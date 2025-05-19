@@ -49,7 +49,7 @@ Try it out locally below ⬇️
 
 ```bash
 git clone https://github.com/mohamed-abdelnaser4/WebChat
-cd WebChat
+cd WebChat/src
 pip install -r requirements.txt
 streamlit run app.py
 ```
